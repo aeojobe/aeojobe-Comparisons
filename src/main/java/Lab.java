@@ -53,6 +53,7 @@ public class Lab {
      */
     public boolean greaterThanOrEqualTo(int a, int b){
         if(a >= b){return true;}
+        
         else{return false;}
     }
     /**
@@ -63,7 +64,7 @@ public class Lab {
     public boolean lessThanOrEqualTo(int a, int b){
         
         if (a <= b){return true;}
-        
+
         else{return false;}
     }
 
